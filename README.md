@@ -5,7 +5,7 @@ Digital Image Processing Enhancement
 #### M_71CS63112_extract_intensity.m
 <pre>
 % หาและพล็อตฮิสโตแกรมของภาพ โดยแบ่งระดับเทาออกเป็น 10 ช่วง
-<pre>
+</pre>
 
 #### M_72CS63112_compare_Hist.m
 <pre>
