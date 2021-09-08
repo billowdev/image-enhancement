@@ -16,7 +16,7 @@ Digital Image Processing Enhancement
 <pre>
 % ทำการยืดคอนทราสตามสมการ (7.2)
 </pre>
-<this for img72>
+![7.2](https://github.com/lacakp/Image-Enhancement/blob/fad21a02bab09a71702cf39ed06d8619ad1d2e38/Images/img72.jpg)
 
 #### >> M_74CS63112_Bit_extraction.m
 <pre>
